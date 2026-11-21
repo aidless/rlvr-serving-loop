@@ -1,0 +1,19 @@
+{
+  "verdict": "PASS",
+  "verifiers": [
+    {
+      "name": "exact_match",
+      "tpr": 1.0,
+      "fpr": 0.0,
+      "n": 20
+    },
+    {
+      "name": "hidden_tests",
+      "tpr": 1.0,
+      "fpr": 0.0,
+      "n": 20
+    }
+  ],
+  "findings": [],
+  "evidence_level": "SIMULATED"
+}

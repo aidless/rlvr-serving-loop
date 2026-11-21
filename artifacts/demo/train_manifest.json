@@ -1,0 +1,8 @@
+{
+  "reward_mode": "true_reward",
+  "backend": "simulated",
+  "commit_or_note": "local-train-stub",
+  "evidence_level": "SIMULATED",
+  "steps": 12,
+  "seed": 7
+}
